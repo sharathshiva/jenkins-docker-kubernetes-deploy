@@ -11,7 +11,7 @@ import java.util.Base64;
 
 @RestController
 @CrossOrigin(origins="http://localhost:4200")
-@RequestMapping("/users")
+@RequestMapping("/profiles")
 public class UserController {
 
 
